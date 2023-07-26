@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-D5QF2DQ.ACT_SSIS_1"
+  DTS:DTSID="{99C1A3A6-C697-4109-8DE2-6D3F6F0F9D8F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-D5QF2DQ;Initial Catalog=ACT_SSIS_1;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-DB to Excel to DB-{99C1A3A6-C697-4109-8DE2-6D3F6F0F9D8F}DESKTOP-D5QF2DQ.ACT_SSIS_1;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
